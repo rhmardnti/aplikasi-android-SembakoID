@@ -1,1 +1,1 @@
-# aplikasi-android-SembakoID-menggunakan-Android-Studio
+# aplikasi-android-SembakoID
